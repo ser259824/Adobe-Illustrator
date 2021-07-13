@@ -1,7 +1,7 @@
 /***
 {
 	"name" : "VariableImporter 8",
-	"scriptVersion" : "8.2.4",
+	"moyene" : "8.2.4",
 	"note" : "This script helps to import .CSV and tab-delimited .TXT spreadsheets as Illustrator XML datasets.",
 	"author" : {
 		"by" : "Vasily Hall",
